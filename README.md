@@ -1,5 +1,5 @@
 # About us
-Everything there is to know so far about [Exactly](https://exactly.finance)
+Everything there is to know so far about [Exactly](https://exactly.finance).
 We are building a decentralized credit protocol with stablecoins, fixed interest rates and longer terms for Alice and Bob.
 
 Exactly is funded by long term capital partners with a track record of alignment with the Tech and DeFi ecosystems. 
