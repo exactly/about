@@ -5,6 +5,6 @@ We are building a decentralized credit protocol with stablecoins, fixed interest
 Exactly is funded by long term capital partners with a track record of alignment with the Tech and DeFi ecosystems. 
 Some of our current investors are: [Kazsek](https://www.kaszek.com), [Maker Growth](https://twitter.com/MakerGrowth), [Baires DAO](https://twitter.com/bairesdao),[6th Man Ventures](https://www.6thman.ventures), [Esteban Ordano](https://github.com/eordano), [Ariel Barmat](https://github.com/abarmat), [Matias Woloski](https://github.com/woloski), [Marcos Galperin](https://twitter.com/marcos_galperin) and others.
 
-Check our [open job positions](https://github.com/exactly-finance/about/tree/main/jobs) - full-time roles we're actively recruiting for. Please reach out at us jobs@exactly.finance
+Join our team, we have the following [open job positions](https://github.com/exactly-finance/about/tree/main/jobs) - full-time roles we're actively recruiting for. 
 
-Join us on [Discord](https://discord.gg/nFKzxNvz),[Telegram](https://t.me/exactlyFinance) and [Twitter](https://twitter.com/exactly_finance).
+Follow us on [Discord](https://discord.gg/nFKzxNvz),[Telegram](https://t.me/exactlyFinance) and [Twitter](https://twitter.com/exactly_finance).
