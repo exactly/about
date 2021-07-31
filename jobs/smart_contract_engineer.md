@@ -2,7 +2,7 @@
 
 ## Description
 
-We are looking for an experienced smart contract engineer to help us build Exactly Protocol V0.1.
+We are looking for an experienced shadowy crypto super-coder to help us build Exactly Protocol V0.1
 
 ### Initial Responsibilities
 
@@ -10,14 +10,16 @@ You will be responsible for implementing and designing smart contracts for our n
 
 ### Requirements
 
-1-3 years of experience with Solidity
-A deep understanding of the Ethereum Virtual Machine
-Prior experience deploying complex smart contract systems to the Ethereum mainnet
-Nice to haves
-Degree in math or computer science
-Experience implementing complex math in Solidity
-Experience with React, Redux and other frontend technologies
-Love for startups :)
+* 1-3 years of experience with Solidity
+* A deep understanding of the Ethereum Virtual Machine
+* Prior experience deploying complex smart contract systems to the Ethereum mainnet
+
+Nice to have:
+* Degree in math or computer science
+* Experience implementing complex math in Solidity
+* Experience with React, Redux and other frontend technologies
+* Love for startups :)
+
 Exactly welcomes all qualified persons on planet earch to apply regardless of race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. Compensation will be competitive and commensurate with experience. This is a full time role.
 
 ## Exactly
