@@ -6,21 +6,23 @@ We are looking for an experienced shadowy crypto super-coder to help us build Ex
 
 ### Initial Responsibilities
 
-You will be responsible for implementing and designing smart contracts for our new credit protocol for lending and borrowing with stablecoins, fixed interest rate and longer terms on Ethereum.
+You will be responsible for implementing and designing smart contracts for our new credit protocol for lending and borrowing with tokens, fixed interest rate and longer terms on Ethereum.
+
+This is a full time role and we are fully remote. 
 
 ### Requirements
 
-* 1-3 years of experience with Solidity
-* A deep understanding of the Ethereum Virtual Machine
-* Prior experience deploying complex smart contract systems to the Ethereum mainnet
+* 1-3 years of experience with Solidity.
+* A deep understanding of the Ethereum Virtual Machine.
+* Prior experience deploying complex smart contract systems to the Ethereum mainnet.
 
 Nice to have:
-* Degree in math or computer science
-* Experience implementing complex math in Solidity
-* Experience with React, Redux and other frontend technologies
+* Degree in math or computer science.
+* Experience implementing complex math in Solidity.
+* Experience with React, Redux and other frontend technologies.
 * Love for startups :)
 
-Exactly welcomes all qualified persons on planet earch to apply regardless of race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. Compensation will be competitive and commensurate with experience. This is a full time role.
+Exactly welcomes all qualified persons on planet earth to apply regardless of race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. 
 
 ## Exactly
 
@@ -28,7 +30,7 @@ We are building a decentralized credit protocol with stablecoins, fixed interest
 
 We are not your typical startup, we are fully remote and working to scale Exactly as the biggest decentralized credit platform on earth.
 
-If you are a self-directed individual who puts collective success above your own and are motivated by solving hard problems with big potencial impact, you will fit right in.
+If you are a self-directed individual who puts collective success above your own and are motivated by solving hard problems with big potencial impact, you will fit right in. Compensation will be super competitive and commensurate with experience. 
 
 ## Contact
 
