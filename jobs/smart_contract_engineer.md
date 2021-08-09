@@ -20,7 +20,7 @@ This is a full time role and we are fully remote.
 * A deep understanding of the Ethereum Virtual Machine.
 * Prior experience deploying complex smart contract systems to the Ethereum mainnet.
 
-### Nice to have:
+### Nice to have
 
 * Degree in math or computer science.
 * Experience implementing complex math in Solidity.
