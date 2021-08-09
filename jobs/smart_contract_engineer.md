@@ -3,12 +3,16 @@
 ## Description
 
 We are looking for an experienced shadowy crypto super-coder to help us build Exactly Protocol V0.1
+This is a full time role and we are fully remote. 
 
 ### Initial Responsibilities
 
-You will be responsible for implementing and designing smart contracts for our new credit protocol for lending and borrowing with tokens, fixed interest rate and longer terms on Ethereum.
+* You will be responsible for implementing and designing smart contracts for our new credit protocol for lending and borrowing with tokens, fixed interest rate and longer terms on Ethereum.
+* Review code written by other team members.
+* Collaborate with auditors to ensure code quality standards and security.
+* Write scripts to automate monitoring and tracking to maintain the overall protocol health.
+* Engage our community by sharing our design decisions and document how the protocol works.
 
-This is a full time role and we are fully remote. 
 
 ### Requirements
 
@@ -16,19 +20,20 @@ This is a full time role and we are fully remote.
 * A deep understanding of the Ethereum Virtual Machine.
 * Prior experience deploying complex smart contract systems to the Ethereum mainnet.
 
-Nice to have:
+### Nice to have:
+
 * Degree in math or computer science.
 * Experience implementing complex math in Solidity.
-* Experience with React, Redux and other frontend technologies.
+* Experience with React and other web3 frontend tech.
 * Love for startups :)
-
-Exactly welcomes all qualified persons on planet earth to apply regardless of race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. 
 
 ## Exactly
 
 We are building a decentralized credit protocol with stablecoins, fixed interest rates and longer terms for Alice and Bob. 
 
 We are not your typical startup, we are fully remote and working to scale Exactly as the biggest decentralized credit platform on earth.
+
+Exactly welcomes all qualified persons on planet earth to apply regardless of race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. 
 
 If you are a self-directed individual who puts collective success above your own and are motivated by solving hard problems with big potencial impact, you will fit right in. Compensation will be super competitive and commensurate with experience. 
 
