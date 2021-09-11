@@ -33,7 +33,7 @@ We are building a decentralized credit protocol with stablecoins, fixed interest
 
 We are not your typical startup, we are fully remote and working to scale Exactly as the biggest decentralized credit platform on earth.
 
-Exactly welcomes all qualified persons on planet earth to apply regardless of race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. 
+Exactly welcomes all qualified persons on planet earth to apply regardless of race, religion, political orientation, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. 
 
 If you are a self-directed individual who puts collective success above your own and are motivated by solving hard problems with big potencial impact, you will fit right in. Compensation will be super competitive and commensurate with experience. 
 
