@@ -3,7 +3,7 @@
 ## Description
 
 We are looking for an experienced programmer to help us build a Web DApp for Exactly Protocol.
-This is a full time role and we are fully remote.
+This is a full time role and you can work remote.
 
 ### Initial Responsibilities
 
