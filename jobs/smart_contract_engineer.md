@@ -2,8 +2,8 @@
 
 ## Description
 
-We are looking for an experienced shadowy crypto super-coder to help us build Exactly Protocol V0.1
-This is a full time role and we are fully remote. 
+We are looking for an experienced shadowy crypto super-coder to help us build Exactly Protocol v1.
+This is a full time role and you can work remote. 
 
 ### Initial Responsibilities
 
@@ -29,7 +29,7 @@ This is a full time role and we are fully remote.
 
 ## Exactly
 
-We are building a decentralized credit protocol with stablecoins, fixed interest rates and longer terms for Alice and Bob. 
+We are building a decentralized, non-custodial and open source protocol to exchange the time value of crypto assets at a fixed interest rate. 
 
 We are not your typical startup, we are fully remote and working to scale Exactly as the biggest decentralized credit platform on earth.
 
