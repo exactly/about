@@ -12,7 +12,7 @@ This is a full time role and you can work remote.
 
 ### Requirements
 
-- 1+ years of design experience, preferably in fintechs or Defi
+- 3+ years of design experience, preferably in fintechs or Defi
 - Knowledge of HTML5 and sass
 
 ### Nice to have
