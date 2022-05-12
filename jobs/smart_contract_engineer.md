@@ -37,10 +37,7 @@ Exactly welcomes all qualified persons on planet earth to apply regardless of ra
 
 If you are a self-directed individual who puts collective success above your own and are motivated by solving hard problems with big potencial impact, you will fit right in. Compensation will be super competitive and commensurate with experience. 
 
-## Challenge 
-
-https://github.com/exactly-finance/solidity-challenge
 
 ## Contact
 
-jobs@exactly.finance
+If you want to apply to this position, please share your solution to our [Solidity Challenge](https://github.com/exactly-finance/solidity-challenge) to the following email: jobs@exactly.finance
