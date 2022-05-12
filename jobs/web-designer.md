@@ -32,4 +32,4 @@ If you are a self-directed individual who puts collective success above your own
 
 ## Contact
 
-If you want to apply to this position, please send your resume, and your solution to the [Design Challenge](https://github.com/exactly-finance/designer-challenge) to the following email: jobs@exactly.finance
+If you want to apply to this position, please send your resume, and your solution to the [Web Designer Challenge](https://github.com/exactly-finance/designer-challenge) to the following email: jobs@exactly.finance
