@@ -1,4 +1,4 @@
-# Web3 Frontend Developer
+# Web3 Developer
 
 ## Description
 
@@ -36,4 +36,4 @@ If you are a self-directed individual who puts collective success above your own
 
 ## Contact
 
-If you want to apply to this position, please send your resume, and your solution to the [DApp Challenge](https://github.com/exactly-finance/dapps-challenge) to the following email: jobs@exactly.finance
+If you want to apply to this position, please send your resume and your solution to the [React dApp Dev Challenge](https://github.com/exactly-protocol/react-dapp-developer-challenge) to jobs at exact dot ly.
