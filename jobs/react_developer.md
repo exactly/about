@@ -1,25 +1,24 @@
-# Web3 Developer
+# React Developer
 
 ## Description
 
-We are looking for an experienced programmer to help us build a Web DApp for Exactly Protocol.
-This is a full time role and you can work remote.
+We are looking for an experienced programmer to help us build a Web DApp for Exactly Protocol. This is a full time role and you can work remotely.
 
 ### Initial Responsibilities
 
-- You will be responsible for building the DApp using technologies such as Next.js, GraphQl, ethers.js, typescript, among others
+- You will be responsible for building the DApp using technologies such as Next.js, GraphQl, ethers.js, TypeScript, among others
 - Create and maintain a subgraph that serves data to the DApp
 - Review code written by other team members
-- Participate in front end design decisions
+- Participate in front-end design decisions
 
 ### Requirements
 
 - 5+ years of experience working with React/Next.js
-- 2+ years of experience working with Web3 and The Graph
-- Prior experience leading a team
 
 ### Nice to have
 
+- Prior experience leading a team
+- 2+ years of experience working with Web3 and The Graph
 - Experience with complex projects deployments, continuous integration and infrastructure in general
 - Experience with Solidity
 - Love for startups :)
@@ -36,4 +35,4 @@ If you are a self-directed individual who puts collective success above your own
 
 ## Contact
 
-If you want to apply to this position, please send your resume and your solution to the [React dApp Dev Challenge](https://github.com/exactly-protocol/react-dapp-developer-challenge) to jobs at exact dot ly.
+If you want to apply to this position, please send your resume and your solution to the [React Dev Challenge](https://github.com/exactly-protocol/react-developer-challenge) to jobs at exact dot ly.
