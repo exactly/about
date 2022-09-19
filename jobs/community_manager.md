@@ -1,6 +1,6 @@
 # Community Manager
 
-## Description
+## Description
 
 This role is about creating. As the Community Manager your mission is to make Exactly Protocol one of the most positive, accessible and fun communities in the DeFi ecosystem. Your immediate focus will be creating real and authentic connections between us and our community members while being the domain expert and go-to person for everything related to protocol commercialization, marketing and community nurturing. This is a unique opportunity to define a brand from scratch and own audience growth on all our communication channels.
 
