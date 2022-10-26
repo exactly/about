@@ -1,8 +1,8 @@
-# Community Manager
+# Head of Community
 
 ## Description
 
-This role is about creating. As the Community Manager your mission is to make Exactly Protocol one of the most positive, accessible and fun communities in the DeFi ecosystem. Your immediate focus will be creating real and authentic connections between us and our community members while being the domain expert and go-to person for everything related to protocol commercialization, marketing and community nurturing. This is a unique opportunity to define a brand from scratch and own audience growth on all our communication channels.
+This role is about creating. As the Head of Community your mission is to make Exactly Protocol one of the most positive, accessible and fun communities in the DeFi ecosystem. Your immediate focus will be creating real and authentic connections between us and our community members while being the domain expert and go-to person for everything related to protocol commercialization, marketing and community nurturing. This is a unique opportunity to define a brand from scratch and own audience growth on all our communication channels.
 
 ### Initial Responsibilities
 
@@ -16,7 +16,7 @@ This role is about creating. As the Community Manager your mission is to make Ex
 
 ### Requirements
 
-- Good communication skills (writing, verbal, and listening) in English and Spanish is a **must**.
+- Good communication skills (writing, verbal, and listening) in English is a **must**.
 - Extreme attention to detail.
 - The ideal candidate has experience launching community initiatives (e.g., managing a Discord community, building an online forum, leading an ambassador program, writing an email newsletter, etc.) and familiarity with online communications platforms, such as Twitter, Discord and Telegram.
 - Strong ownership, initiative and emotional intelligence.
@@ -42,4 +42,4 @@ If you are a self-directed individual who puts collective success above your own
 
 ## Contact
 
-If you want to apply to this position, please send your resume to jobs at exact dot ly with the subject "Community Manager Application".
+If you want to apply to this position, please send your resume to jobs at exact dot ly with the subject "Head of Community Application".
