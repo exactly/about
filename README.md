@@ -8,7 +8,7 @@ While the short term focus is to bring fixed income solutions to DeFi, the team'
 
 Exactly is funded by long term capital partners with a track record of alignment with the Web2 and Web3 ecosystems.
 
-Some of our current investors are: [Kaszek](https://www.kaszek.com),[BairesDAO](https://twitter.com/bairesdao), [6th Man Ventures](https://www.6thman.ventures),[Kain Warwick](https://twitter.com/kaiynne),[Esteban Ordano](https://github.com/eordano), [Ariel Barmat](https://github.com/abarmat), [Matias Woloski](https://github.com/woloski)among others.
+Some of our current investors are: [Kaszek](https://www.kaszek.com),[BairesDAO](https://twitter.com/bairesdao), [6th Man Ventures](https://www.6thman.ventures), [Kain Warwick](https://twitter.com/kaiynne), [Esteban Ordano](https://github.com/eordano), [Ariel Barmat](https://github.com/abarmat), [Matias Woloski](https://github.com/woloski) among others.
 
 Join our team, we have the following [open job positions](https://github.com/exactly-protocol/about/tree/main/jobs) - full-time roles we're actively recruiting for.
 
