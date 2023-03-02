@@ -4,7 +4,7 @@ Everything there is to know so far about [Exactly](https://exact.ly):
 
 Exactly is a decentralized, non-custodial and open-source protocol that provides an autonomous interest rate market to lenders and borrowers while setting interest rates based on credit supply and demand, enabling users to frictionlessly exchange the time value of their crypto assets at both variable and fixed interest rates for the first time in DeFi.
 
-While the short term focus is to bring fixed income solutions to DeFi, the team's long term vision is to connect DeFi with the end-cunsumer.
+While the short term focus is to bring fixed income solutions to DeFi, the team's long term vision is to connect DeFi with the end-consumer.
 
 Exactly is funded by long term capital partners with a track record of alignment with the Web2 and Web3 ecosystems.
 
