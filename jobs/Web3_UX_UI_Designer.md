@@ -18,7 +18,8 @@ Exactly Protocol is seeking a talented Web3 UX/UI Designer to join our team. In 
 - Strong proficiency in design and prototyping tools such as Sketch, Figma, Adobe Creative Suite, or similar
 - Experience with user research, user testing, and design thinking methodologies
 - Excellent communication and collaboration skills (in English) are a must
-- Knowledge of web3 technologies and programming languages such as JavaScript, React, IPFS, and Web3.js is a big plus
+
+Knowledge of web3 technologies and programming languages such as JavaScript, React, IPFS, and Web3.js, although not a requirement, is a big plus.
 
 We offer a competitive salary and a dynamic work environment that values creativity, innovation, and teamwork. If you are looking for a challenging opportunity to make an impact on the future of DeFi, please apply with your resume, portfolio, and a brief statement on why you are interested in this position.
 
